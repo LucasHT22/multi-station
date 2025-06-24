@@ -1,6 +1,15 @@
 # multi-station
 Project for Hackclub Highway
 
+# June 24
+
+- code
+- fit everything inside case
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/91dbbcd867370f10d0884f4cfe319907fbf4667f_img_20250624_154550.jpg)
+
+Time spent: 1h 30min
+
 # June 17
 
 This is a project that I want to make it better: more portable, visual indicator, cable management and more
