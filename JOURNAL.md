@@ -5,6 +5,14 @@ description: "v2 of my sensor station"
 created_at: "2025-06-17"
 ---
 
+# June 29
+
+I had forgotten to add a resistor for the green LED so I burned it... but it works!! The red light from the Arduino is so strong that it goes through the wall of the case... but I would say it was a success, there was plastic clogged in my 3D printer hotend and the red light came on
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3312eebf7d78f55e82136be0b96634f4e68385c6_1000130261.jpg)
+
+Time spent: 2 hours
+
 # June 24
 
 - code
